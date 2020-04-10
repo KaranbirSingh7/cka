@@ -7,6 +7,6 @@ set syntax=yaml
 " Show line numbers
 set number
 
-# Change default Tab
+" Change default Tab
 set tabstop=2
 set expandtab
