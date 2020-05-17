@@ -9,3 +9,7 @@ alias kgn="kubectl get nodes -o wide"
 alias kep="kubectl describe pod"
 alias ked="kubectl describe deployment"
 alias kes="kubectl describe service"
+
+
+# Delete Objects
+alias kdp='k delete po --force --grace-period=0'
